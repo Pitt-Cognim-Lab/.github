@@ -4,7 +4,7 @@ Our lab is interested in understanding the cognitive and neural mechanisms under
 
 For more information about the lab, visit the [lab website](http://www.mcoutanche.com/)
 
-### Wiki Pages 
+### Wiki Pages （Only available to lab members)
 
 **[Lab Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Resources.md)**
 
