@@ -5,6 +5,9 @@ Our lab is interested in understanding the cognitive and neural mechanisms under
 For more information about the lab, visit the [lab website](http://www.mcoutanche.com/)
 
 ### Wiki Pages 
+
+**[Lab Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/README.md)**
+
 [Academic Components](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Academic%20Component.md)
 
 [File Organization](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/File%20Organization.md)
@@ -14,8 +17,6 @@ For more information about the lab, visit the [lab website](http://www.mcoutanch
 [Lab Meeting Itinerary](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Meeting%20Itinerary.md)
 
 [Lab Member Information](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Member%20Information.md)
-
-[Lab Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/README.md)
 
 [Laptop Setup (For Graduate students)](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Laptop%20Setup.md)
 
