@@ -16,13 +16,14 @@ All Lab Members:
 
 [Lab Member Information](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Member%20Information.md)
 
+[Software Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Software%20Resources.md)
+
+[Steps for New Member](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Steps%20for%20New%20Members.md)
+
 Only Undergrads:
 
 [Academic Components](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Academic%20Component.md)
 
-[Software Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Software%20Resources.md)
-
-[Steps for New Member](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Steps%20for%20New%20Members.md)
 
 Only Graduate Students:
 
