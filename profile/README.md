@@ -12,6 +12,8 @@ All Lab Members:
 
 [File Organization](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/File%20Organization.md)
 
+[Lab Meeting Itinerary](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Meeting%20Itinerary.md)
+
 Only Undergrads:
 
 [Academic Components](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Academic%20Component.md)
@@ -19,8 +21,6 @@ Only Undergrads:
 Only Graduate Students:
 
 [Forms for Experiments](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Forms%20for%20Experiments.md)
-
-[Lab Meeting Itinerary](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Meeting%20Itinerary.md)
 
 [Lab Member Information](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Member%20Information.md)
 
