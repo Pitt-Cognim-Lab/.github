@@ -6,6 +6,8 @@ For more information about the lab, visit the [lab website](http://www.mcoutanch
 
 ### Wiki Pages (Only available to lab members)
 
+All Lab Members:
+
 **[Lab Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Resources.md)**
 
 [Academic Components](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Academic%20Component.md)
