@@ -20,6 +20,10 @@ Only Undergrads:
 
 [Academic Components](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Academic%20Component.md)
 
+[Software Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Software%20Resources.md)
+
+[Steps for New Member](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Steps%20for%20New%20Members.md)
+
 Only Graduate Students:
 
 [Forms for Experiments](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Forms%20for%20Experiments.md)
@@ -28,6 +32,3 @@ Only Graduate Students:
 
 [Projects](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Projects.md)
 
-[Software Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Software%20Resources.md)
-
-[Steps for New Member](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Steps%20for%20New%20Members.md)
