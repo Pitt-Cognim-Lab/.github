@@ -10,11 +10,11 @@ All Lab Members:
 
 **[Lab Resources](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Lab%20Resources.md)**
 
+[File Organization](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/File%20Organization.md)
+
 Only Undergrads:
 
 [Academic Components](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Academic%20Component.md)
-
-[File Organization](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/File%20Organization.md)
 
 [Forms for Experiments](https://github.com/Pitt-Cognim-Lab/Lab_Information/blob/main/Forms%20for%20Experiments.md)
 
