@@ -2,7 +2,7 @@
 
 Our lab is interested in understanding the cognitive and neural mechanisms underlying learning and memory. Our research examines factors that impact the encoding, consolidation, and retrieval of different types of information, including how new information is presented and the role of sleep in consolidation. We also seek to understand the neural systems underlying the integration of new memories into people’s knowledge systems. We conduct behavioral experiments (testing participants in computer-based tasks) and functional Magnetic Resonance Imaging (fMRI) studies.
 
-For more information about the lab, visit the [lab website](http://www.mcoutanche.com/)
+For more information about the lab, visit the [lab website](https://sites.google.com/view/coutanchelab)
 
 ### Wiki Pages (Only available to lab members)
 
